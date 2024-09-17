@@ -1,0 +1,54 @@
+.Box{
+    /* border: 5px solid blue; */
+    background-color: blueviolet;
+    /* border: 5px dotted red;
+    border:  5px double red;
+    border: 5px dashed red; */
+
+    width: 100px;
+    height: 100px;
+    /* border-radius: 100%; */
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    margin: 40px;
+    padding: 40px;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+    color: white;
+
+}
+
+.Boxsimple{
+
+    background-color: darkblue;
+    width: 250px;
+    padding: 20px;
+
+    margin-top: 30px;
+    color: white;
+}
+.image img {
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+    border-radius: 150px;
+
+
+
+
+}
+
+.Boxsimple .title h5{
+
+margin-top: -10px;
+margin-left: 20px;
+
+}
+
+body {
+
+    background-image: url( 'premium_photo-1673306778968-5aab577a7365.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
